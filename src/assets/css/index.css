@@ -1,0 +1,12 @@
+p {
+  max-width: 20rem;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+section a {
+  display: block;
+  margin-bottom: 0.75rem;
+}

@@ -1,0 +1,23 @@
+body {
+  font-size: 1.6rem;
+  line-height: 1.3;
+  padding: 4rem;
+  background-color: #f9f9f9;
+  color: #313639;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #313639;
+    color: #f9f9f9;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #da1c27;
+}
+
+a:hover {
+  text-decoration: underline;
+}

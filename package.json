@@ -4,12 +4,18 @@
   "description": "personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node bin/build.js"
   },
   "repository": {
     "type": "git",
     "url": "https://git.sr.ht/~briix/www"
   },
   "author": "Simon Brix (@br11x)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "liquidjs": "^9.15.0",
+    "markdown-it": "^11.0.0",
+    "ncp": "^2.0.0"
+  }
 }
