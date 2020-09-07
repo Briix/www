@@ -4,7 +4,7 @@
 
 <p>
 Building unremarkable interfaces for <a href="https://play.eslgaming.com/" target="_blank" rel="noopener noreferrer">ESL</a>.
-UI/UX and Web development to make the interface disappear.
+UI/UX and web development to make the interface disappear.
 </p>
 
 <section>
